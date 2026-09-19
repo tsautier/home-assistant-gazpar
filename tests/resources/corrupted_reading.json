@@ -1,0 +1,35 @@
+[
+  {
+    "time_period": "14/10/2024",
+    "start_index_m3": 6012,
+    "end_index_m3": 10563,
+    "volume_m3": 4551.0,
+    "energy_kwh": 0.0,
+    "converter_factor_kwh/m3": 11.61,
+    "temperature_degC": 14.0,
+    "type": "MES",
+    "timestamp": "2024-10-15T00:00:00.000000"
+  },
+  {
+    "time_period": "13/10/2024",
+    "start_index_m3": 6010,
+    "end_index_m3": 6012,
+    "volume_m3": 1.7,
+    "energy_kwh": 19.74,
+    "converter_factor_kwh/m3": 11.61,
+    "temperature_degC": 14.0,
+    "type": "MES",
+    "timestamp": "2024-10-15T00:00:00.000000"
+  },
+  {
+    "time_period": "12/10/2024",
+    "start_index_m3": 6008,
+    "end_index_m3": 6010,
+    "volume_m3": 2.51,
+    "energy_kwh": 29.15,
+    "converter_factor_kwh/m3": 11.61,
+    "temperature_degC": 15.0,
+    "type": "MES",
+    "timestamp": "2024-10-15T00:00:00.000000"
+  }
+]

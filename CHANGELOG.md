@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.14] - 2026-09-19
+
+### Fixed
+
+[#86](https://github.com/ssenart/home-assistant-gazpar/pull/86): Spurious multi-thousand kWh jumps in the cumulative energy sensor state, caused by a corrupted or not-yet-finalized most recent daily reading being used as-is.
+
 ## [1.3.13] - 2025-07-22
 
 ### Changed
